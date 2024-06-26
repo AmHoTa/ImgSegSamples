@@ -1,1 +1,1 @@
-به دلیل محرمانه بودن دیتا فقط دو سمپل به عنوان نمونه قرار گرفته است و بزودی پاک خواهد شد.
+this is just few output samples of my work for governship of shiraz in Image Segmentation Project. due to confidentallity i am not able to upload more. but I'll try to update it with my progress over time.
